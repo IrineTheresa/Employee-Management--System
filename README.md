@@ -1,52 +1,31 @@
 # Employee-Management-System
 
-A simple console-based Employee Management System developed using Python.
+A console-based Employee Management System developed using Python.
 
 ## Features
 
+### Section A
 - Add Employee
 - Fetch Employee by ID
 - Fetch All Active Employees
 - Update Employee Details
 - Soft Delete Employee (Mark as INACTIVE)
 
-## Employee Fields
-
-Each employee record contains:
-
-- ID
-- Name
-- Email
-- Department
-- Salary
-- Status (ACTIVE / INACTIVE)
+### Section B
+Inventory Stock-Out Alert program using loops and conditional statements.
 
 ## Technologies Used
 
 - Python 3
 
-## Functionalities
+## Files
 
-### Add Employee
-Adds a new employee record to the system.
-
-### Fetch Employee by ID
-Displays employee details using employee ID.
-
-### Fetch All Active Employees
-Displays all employees whose status is ACTIVE.
-
-### Update Employee
-Updates existing employee details.
-
-### Delete Employee
-Implements soft delete by changing employee status to INACTIVE.
+- `main.py` → Employee Management System
+- `inventory.py` → Inventory Stock-Out Alert
 
 ## How to Run
 
-1. Open the project folder in VS Code
-2. Open terminal
-3. Run the following command:
+### Run Employee Management System
 
 ```bash
 python main.py
