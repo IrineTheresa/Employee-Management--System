@@ -1,4 +1,4 @@
-#Employee-Management-System
+# Employee-Management-System
 
 A simple console-based Employee Management System developed using Python.
 
